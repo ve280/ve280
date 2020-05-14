@@ -4,8 +4,8 @@
 + Instructor: Paul Weng 
   + Email: paul.weng@sjtu.edu.cn
   + Office Hours:
-    + TBD
-    + TBD
+    + Tuesday 1:30pm-2:30pm
+    + Thursday 1:30pm-2:30pm
     + Or *by appointment*
   + Lectures:
     + Tuesday 10:00 - 11:40 am online

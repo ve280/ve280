@@ -30,5 +30,5 @@
     * Office hour: Thursday 7: 00 pm - 9: 00 pm
   + Zhu, Zhuoer
     * Email: zhuzhuoer@sjtu.edu.cn
-    * Office hour: Wednesday 9: 00 pm - 11: 00 pm
+    * Office hour: Wednesday 7: 00 pm - 9: 00 pm
 + Recitation Class:  Before exam

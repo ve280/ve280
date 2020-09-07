@@ -1,4 +1,4 @@
-# VE280
+# VE280 (20FA)
 ### Programming &amp; Elem. Data Structures
 
 + Instructor: Weikang Qian

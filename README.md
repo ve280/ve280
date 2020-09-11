@@ -15,13 +15,16 @@
     + Rhursday 2: 00 - 3: 40 am, D215
 + TA: 
   + Huang, Shen
-    + Email: hsjaccount@sjtu.edu.cn
-    + Office hours: TBD
+    * Email: hsjaccount@sjtu.edu.cn
+    * Recitation class (odd week): Wednesday 10:00-12:00 am, D207
+    * Office hours: Wednesday 14:00-16:00 pm, 326G
   + Ni, Chujie
     * Email: nichujie@sjtu.edu.cn
-    + Office hours: TBD
+    * Recitation class (odd week): Friday 2:00-4:00 pm, D107
+    * Office hours: Friday 16:00-18:00 pm, 326G
   + Pan, Yu
     * Email: jessypan@sjtu.edu.cn
+    * Recitation class (even week): Wednesday 10:00-12:00 am, D207
     * Office hours: Monday 8: 00-10: 00 pm, 326G
   + Qiu, Changyuan
     * Email: peterqiu0516@sjtu.edu.cn 

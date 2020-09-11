@@ -22,7 +22,7 @@
     + Office hour: TBD
   + Pan, Yu
     * Email: jessypan@sjtu.edu.cn
-    * Office hour: TBD
+    * Office hour: Monday 20: 00-22: 00 pm, 326G
   + Qiu, Changyuan
     * Email: peterqiu0516@sjtu.edu.cn 
     * Office hour: TBD

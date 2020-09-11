@@ -22,8 +22,8 @@
     + Office hours: TBD
   + Pan, Yu
     * Email: jessypan@sjtu.edu.cn
-    * Office hours: Monday 8: 00-10: 00 pm, @ 326G
+    * Office hours: Monday 8: 00-10: 00 pm, 326G
   + Qiu, Changyuan
     * Email: peterqiu0516@sjtu.edu.cn 
-    * Recitation class (even week): Friday 2:00-4:00 pm @ D107
-    * Office hours: Thursday 9:00-11:00 pm, @ 326H
+    * Recitation class (even week): Friday 2:00-4:00 pm, D107
+    * Office hours: Thursday 9:00-11:00 pm, 326H

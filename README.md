@@ -25,5 +25,5 @@
     * Office hours: Monday 8: 00-10: 00 pm, @ 326G
   + Qiu, Changyuan
     * Email: peterqiu0516@sjtu.edu.cn 
-    * Recitation class: Friday 2:00-4:00 pm @ D107
+    * Recitation class (even week): Friday 2:00-4:00 pm @ D107
     * Office hours: Thursday 9:00-11:00 pm, @ 326H
